@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Staying up to date with the literature helps inform experimental design, practice problem solving, and spark new and disruptive hypotheses about science. How can someone read literature in a way that's effective toward their own research, rather than being reductive? 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+**People read papers differently based on their objectives. These are mine.**
+1. Stay informed about the current research in the field of neurodegenerative diseases.
+2. Improve my ability to parse through dense information, draw and judge conclusions based on data, and write cleanly.
+3. Learn from other researchers, theorycraft, and back up my intrigue for science through effort.
