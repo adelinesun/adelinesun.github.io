@@ -2,7 +2,7 @@
 layout: post
 title:  "Cre-LoxP offers insights on critical windows in mouse embryonic development"
 date:   2025-10-20 09:53:00 -0700
-categories: figure review
+categories: lit review
 ---
 
 Written by Adeline Sun
@@ -16,7 +16,7 @@ Written by Adeline Sun
 
 <br>
 
-It might be worth nothing that this paper was published in 2009, so yes, it's been a while. The first author Milan Joksimovic is now with the Department of Cell Biology, Neurobiology and Anatomy at the Medical College of Wisconsin. The senior author, Rajeshwar Awatramani, is a professor of neurology at the Northwestern University Feinberg School of Medicine.
+This paper was published in 2009. Dr. Milan Joksimovic is now with the Department of Cell Biology, Neurobiology and Anatomy at the Medical College of Wisconsin. At time of publication, he was working in Dr. Rajeshwar Awatramani, a professor of neurology at the Northwestern University Feinberg School of Medicine.
 
 <br>
 
