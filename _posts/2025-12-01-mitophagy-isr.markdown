@@ -335,3 +335,14 @@ In cell biology especially, it is difficult to account for all the possible ways
 **Works Cited**
 
 Chakrabarty, Y., Yang, Z., Chen, H. et al. The HRI branch of the integrated stress response selectively triggers mitophagy. Molecular Cell 85, 1090-1100.e6 (2024)
+
+## Comments
+<div id="comments"></div>
+
+<script src="https://utteranc.es/client.js"
+        repo="adelinesun/adelinesun.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

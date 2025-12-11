@@ -129,14 +129,22 @@ As they say, it's always the mitochondria!
 
 <br>
 
-**Citations**
+**Works Cited**
 
-Roth, S., Sheppard, C., Wicker, K. et al. Optical Photon Reassignment Microscopy (OPRA). arXiv:1306.6230. (2013)
+* Roth, S., Sheppard, C., Wicker, K. et al. Optical Photon Reassignment Microscopy (OPRA). arXiv:1306.6230. (2013)
+* Kempf, A., Song, S.M., Talbot, C.B. et al. A potassium channel β-subunit couples mitochondrial electron transport to sleep. Nature 568, 230–234 (2019).
+* Lyons, D. G., & Rihel, J. (2020). Sleep circuits and physiology in non-mammalian systems. Current Opinion in Physiology, 15, 245–255.
+* Vance, J. E. Phospholipid synthesis in a membrane fraction associated with mitochondria. J. Biol. Chem. 265, 7248–7256 (1990).
+* Chan, D. C. (2020). Mitochondrial dynamics and its involvement in disease. Annual Review of Pathology: Mechanisms of Disease, 15(1), 235–259.
 
-Kempf, A., Song, S.M., Talbot, C.B. et al. A potassium channel β-subunit couples mitochondrial electron transport to sleep. Nature 568, 230–234 (2019).
 
-Lyons, D. G., & Rihel, J. (2020). Sleep circuits and physiology in non-mammalian systems. Current Opinion in Physiology, 15, 245–255.
+## Comments
+<div id="comments"></div>
 
-Vance, J. E. Phospholipid synthesis in a membrane fraction associated with mitochondria. J. Biol. Chem. 265, 7248–7256 (1990).
-
-Chan, D. C. (2020). Mitochondrial dynamics and its involvement in disease. Annual Review of Pathology: Mechanisms of Disease, 15(1), 235–259.
+<script src="https://utteranc.es/client.js"
+        repo="adelinesun/adelinesun.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
