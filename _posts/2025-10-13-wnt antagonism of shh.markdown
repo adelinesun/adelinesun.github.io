@@ -77,11 +77,20 @@ Nestin was chosen as the Cre driver to delay β-catenin knockout by a couple of 
 
 Other food for thought: Why use Shh::Cre; Shh cKO instead of global knockout?
 
-References:
+**Works Cited**:
 
 Joksimovic, M., Yun, B. A., Kittappa, R., Anderegg, A. M., Chang, W. W., Taketo, M. M., McKay, R. D., & Awatramani, R. B. (2009). Wnt antagonism of Shh facilitates midbrain floor plate neurogenesis. Nature Neuroscience, 12(2), 125–131. https://doi.org/10.1038/nn.2243 
 
 
+## Comments
+<div id="comments"></div>
 
+<script src="https://utteranc.es/client.js"
+        repo="adelinesun/adelinesun.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
 
